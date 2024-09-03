@@ -5,7 +5,7 @@ everything involving technology and programming
 - 💞️ I’m looking to 
 professional and academic growth
 - 📫 How to reach me. 
-Through my email Fabyodemelo@gmail.com or phone (85)99414-8657
+Through my email Franciscofabioinffo@gmail.com or phone (85)99414-8657
 
 <!---
 fcofabyo/fcofabyo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
