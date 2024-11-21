@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fcofabyo
 - 👀 I’m interested in 
-everything involving technology and programming
+everything involving technology 
 - 🌱 I’m currently learning Analysis and systems development
 - 💞️ I’m looking to 
 professional and academic growth
