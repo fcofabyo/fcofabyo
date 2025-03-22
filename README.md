@@ -29,4 +29,5 @@
 ---
 
 🔗 Vamos conectar?  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat)](https://https://www.linkedin.com/in/francisco-f%C3%A1bio-2b9894231/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat)](https://www.linkedin.com/in/francisco-fábio-2b9894231/) <!-- Troca pelo teu link! -->
+
