@@ -7,7 +7,7 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=flat)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=fff&style=flat)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=fff&style=flat)
-![Java](https://img.shields.io/badge/-Java-2496ED?logo=java&logoColor=fff&style=flat)
+![Java](https://img.shields.io/badge/-Java-2496ED?logo=java&logoColor=ff0000&style=flat)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat)
 
 
