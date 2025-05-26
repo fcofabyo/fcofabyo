@@ -14,7 +14,7 @@
 
 
 ### 📈 GitHub Stats
-![Francisco's GitHub stats](https://github-readme-stats.vercel.app/api?username=fcofabyo&show_icons=true&theme=github_dark&hide_title=true)
+![Francisco's GitHub stats](https://github-readme-stats.vercel.app/api?username=fcofabyo&show_icons=true&theme=github_dark_title=true)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fcofabyo&langs_count=8)
