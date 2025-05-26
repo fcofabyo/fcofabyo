@@ -17,13 +17,8 @@
 ![Francisco's GitHub stats](https://github-readme-stats.vercel.app/api?username=fcofabyo&show_icons=true&theme=github_dark&hide_title=true)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fcofabyo&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fcofabyo&card_width=500&theme=dark)
 
-
-### 📌 Projetos em destaque
-- [CRUD](https://github.com/fcofabyo/CRUD-) – Projeto de CRUD com JavaScript, HTML e CSS
-- [Calculadora de Impostos](https://github.com/fcofabyo/Calculadora-de-impostos) – Ferramenta simples e funcional
-- [LandingPage](https://github.com/fcofabyo/LandingPage) – Primeiros passos no desenvolvimento web
 
 ---
 
